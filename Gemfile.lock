@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.3)
+    puma (3.4.0)
+    rack (2.0.0.rc1)
+      json
+    rake (11.1.2)
+    wunderbar (1.0.21)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma
+  rack (= 2.0.0.rc1)
+  rake
+  wunderbar
+
+BUNDLED WITH
+   1.12.5
